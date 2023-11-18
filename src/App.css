@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.pizza{
+  width:60%;
+  border-radius:50%;
+  border:solid red;
+  border-width:9px;
+}
